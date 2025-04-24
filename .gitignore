@@ -1,0 +1,11 @@
+# Carpetas generadas por Unreal Engine
+/Saved/
+/Intermediate/
+/Binaries/
+/Build/
+/DerivedDataCache/
+
+# Otros archivos comunes a ignorar
+*.log
+*.bak
+*.pdb
